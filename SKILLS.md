@@ -4,3 +4,4 @@
 
   - RHEL
   - BASH
+  - PYTHON
